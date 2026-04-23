@@ -1,6 +1,6 @@
 # 🔐 File Integrity Checker (Python)
 
-A lightweight **File Integrity Monitoring (FIM)** tool inspired by security solutions like Tripwire and AIDE.  
+A lightweight **File Integrity Monitoring (FIM)** tool.  
 It detects **file modifications, deletions, and new file creation** using SHA-256 hashing.
 
 ---
@@ -14,8 +14,8 @@ It detects **file modifications, deletions, and new file creation** using SHA-25
   - Modified files
   - Deleted files
   - New files
-- 🎨 Colored CLI output (SOC-style)
-- 💻 Interactive CLI mode (Metasploit-like experience)
+- 🎨 Colored CLI output 
+- 💻 Interactive CLI mode
 - 🛠 Manual baseline update option
 
 ---
@@ -33,7 +33,7 @@ requirements.txt → Dependencies
 ### 1. Clone repository
 
 ```bash```
-git clone https://github.com/your-username/file-integrity-checker.git
+git clone https://github.com/wijdentl-tlili/File-Integrity-Checker.git
 cd file-integrity-checker
 
 ### 2. Create virtual environment (recommended)
