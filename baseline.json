@@ -1,6 +1,10 @@
 {
     "C:\\Cyber Project\\File Integrity Checker\\path_to_test\\test.txt": {
-        "hash": "33be938a49ab6ebbbf2a837657f91b1336056666218b77a99ceb3ce6c0ba3ea0",
-        "size": 23
+        "hash": "5af69c2975ac0c0f2d4ff10310a8647830ced82cd25e16acab4b5b41b4f9dff7",
+        "size": 30
+    },
+    "C:\\Cyber Project\\File Integrity Checker\\path_to_test\\two.txt": {
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size": 0
     }
 }
