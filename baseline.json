@@ -1,3 +1,6 @@
 {
-    "baseline_hash": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+    "C:\\Cyber Project\\File Integrity Checker\\path_to_test\\test.txt": {
+        "hash": "33be938a49ab6ebbbf2a837657f91b1336056666218b77a99ceb3ce6c0ba3ea0",
+        "size": 23
+    }
 }
